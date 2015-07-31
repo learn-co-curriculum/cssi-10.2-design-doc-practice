@@ -15,7 +15,7 @@ Even though Movie Spotter did a lot, we first just wanted to design something th
 
 
 ### DESIGN DOC PRACTICE
-1. Choose an existing application from [this doc](https://docs.google.com/document/d/1QV1rLF1FKh8kz-FLy1VbwXozvNVkXRtsCc3zVXHp3YI).
+1. Choose an existing application from last year's projects.
 2. Break it down into the pieces (Views and Controller). 
 3. Produce a design doc with a Gliffy flowchart representing the architecture of their app. [Gliffy offers a free 14-day trial]
 4. Be prepared to explain the design doc your wrote with another group at the end of your time
