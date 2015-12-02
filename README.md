@@ -20,3 +20,5 @@ Even though Movie Spotter did a lot, we first just wanted to design something th
 3. Produce a design doc with a Gliffy flowchart representing the architecture of their app. [Gliffy offers a free 14-day trial]
 4. Be prepared to explain the design doc your wrote with another group at the end of your time
 
+
+<a href='https://learn.co/lessons/cssi-10.2-design-doc-practice' data-visibility='hidden'>View this lesson on Learn.co</a>
