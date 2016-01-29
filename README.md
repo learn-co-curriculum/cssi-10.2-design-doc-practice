@@ -21,4 +21,4 @@ Even though Movie Spotter did a lot, we first just wanted to design something th
 4. Be prepared to explain the design doc your wrote with another group at the end of your time
 
 
-<a href='https://learn.co/lessons/cssi-10.2-design-doc-practice' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-10.2-design-doc-practice' title='DESIGN DOC PRACTICE'>DESIGN DOC PRACTICE</a> on Learn.co and start learning to code for free.</p>
